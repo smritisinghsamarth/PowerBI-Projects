@@ -1,2 +1,26 @@
 # PowerBI-Projects
-Power BI dashboards and data analytics projects.
+This repository contains my Power BI dashboards and data analytics practice projects.  
+I am currently learning Power BI, data visualization, and Microsoft Fabric through Microsoft Learn.
+
+## 📊 Projects That Will Be Added
+
+### 1. Sales Dashboard
+- KPI cards (Total Sales, Profit, Quantity)
+- Sales trend analysis
+- Category and region breakdown
+- Interactive slicers
+
+### 2. HR Analytics Dashboard
+- Employee attrition analysis
+- Department-level insights
+- Job satisfaction visuals
+- Interactive filters
+
+### 3. Data Visualization Practice
+- Chart types and best practices
+- Data modeling exercises
+- Visualization techniques from Microsoft Learn
+
+More projects coming soon!
+
+
