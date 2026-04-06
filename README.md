@@ -1,6 +1,5 @@
 # PowerBI-Projects
-This repository contains my Power BI dashboards and data analytics practice projects.  
-I am currently learning Power BI, data visualization, and Microsoft Fabric through Microsoft Learn.
+This repository contains my Power BI dashboards and data analytics practice projects.
 
 ## 📊 Projects That Will Be Added
 
